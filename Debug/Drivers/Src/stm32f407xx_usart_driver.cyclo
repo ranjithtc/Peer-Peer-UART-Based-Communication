@@ -1,0 +1,14 @@
+stm32f407xx_usart_driver.c:11:6:USART_SetBaudRate	5
+stm32f407xx_usart_driver.c:76:6:USART_Init	9
+stm32f407xx_usart_driver.c:172:6:USART_PeripheralControl	2
+stm32f407xx_usart_driver.c:184:6:USART_PeriClockControl	8
+stm32f407xx_usart_driver.c:219:9:USART_GetFlagStatus	2
+stm32f407xx_usart_driver.c:234:6:USART_SendData	6
+stm32f407xx_usart_driver.c:285:6:USART_ReceiveData	6
+stm32f407xx_usart_driver.c:349:9:USART_SendDataIT	2
+stm32f407xx_usart_driver.c:374:9:USART_ReceiveDataIT	2
+stm32f407xx_usart_driver.c:399:6:USART_ClearFlag	1
+stm32f407xx_usart_driver.c:409:6:USART_IRQInterruptConfig	12
+stm32f407xx_usart_driver.c:454:6:USART_IRQPriorityConfig	1
+stm32f407xx_usart_driver.c:470:6:USART_IRQHandling	30
+stm32f407xx_usart_driver.c:764:13:USART_ApplicationEventCallback	1

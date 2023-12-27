@@ -1,0 +1,8 @@
+../Src/main.c:22:5:main	16	static
+../Src/main.c:55:6:delay	16	static
+../Src/main.c:59:6:GPIO_ButtonInit	48	static
+../Src/main.c:117:6:USART2_GPIOInit	24	static
+../Src/main.c:136:6:USART2_Init	8	static
+../Src/main.c:147:9:Keypad_Btn_Press	8	static
+../Src/main.c:302:6:USART2_IRQHandler	8	static
+../Src/main.c:309:6:USART_ApplicationEventCallback	16	static
